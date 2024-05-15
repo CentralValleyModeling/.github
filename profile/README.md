@@ -1,8 +1,6 @@
-# DWR Modeling Support Office - Central Valley Modeling
+# Welcome to the CVM GitHub Organization
 
-This is the GitHub Organization used by staff and collaborators of the California DWR, State Water Project Modeling Support Office, Central Valley Modeling Section.
-
-Contributions, suggestions, and issue submissions to public repositories are welcomed and encouraged.
+This organization is used by the __CA DWR State Water Project Modeling Support Office, Central Valley Modeling Section__ to collaborate and distribute various code and models. Each repository is maintained by different teams within the section, and each have their own contribution patterns and rules.Generally, suggestions, discussion, and issue submissions to these repositories are welcomed and encouraged.
 
 > [!IMPORTANT]
 > Some of the repositories published here are not actively maintained.
